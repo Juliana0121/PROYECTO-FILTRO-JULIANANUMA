@@ -1,0 +1,194 @@
+body {
+    background-color: #f3f4f6;
+    margin: 0;
+    padding: 0;
+    background-image: url('./Img/cerveza_inicio.jpg');
+    background-size: cover;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+}
+*{
+    margin: 0; padding: 0;
+    box-sizing: border-box;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    outline: none; border: none;
+    text-decoration: none;
+    text-transform: capitalize;
+}
+.modal {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.8);
+}
+
+.modal__container {
+    background-color: rgba(255, 255, 255, 0.95);
+    border-radius: 20px;
+    width: 80%;
+    max-width: 700px;
+    padding: 20px;
+    box-shadow: 0 0 30px rgba(0, 0, 0, 0.5);
+    backdrop-filter: blur(15px);
+    position: relative;
+    border: 3px solid #000000;
+}
+
+button[type="button"] {
+    background-color: transparent;
+    border: none;
+    cursor: pointer;
+    position: absolute;
+    top: 40px;
+    left: 20px;
+}
+
+button[type="button"] img {
+    width: 35px;
+    height: 35px;
+}
+
+.modal__info {
+    margin-top: 20px;
+}
+
+.modal__header{
+    display: flex;
+    justify-content: center;
+}
+
+.modal__header h2 {
+    display: flex;
+    align-items: center;
+    gap: 12px;
+    color: #000000;
+    font-size: 2.5rem;
+    margin: 0;
+    text-shadow: 3px 3px 6px rgba(0, 0, 0, 0.4);
+}
+
+.modal__header h2 .carro {
+    display: inline-block;
+    width: 35px;
+    height: 35px;
+    background-size: cover;
+}
+
+.modal__body {
+    margin-top: 30px;
+}
+
+.modal__list {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+.modal__item {
+    display: flex;
+    align-items: center;
+    padding: 15px 0;
+    border-bottom: 1px solid #ddd;
+    transition: background-color 0.3s, transform 0.3s;
+    border-radius: 10px;
+    margin-bottom: 15px;
+    background-color: #fff3e6;
+    box-shadow: 0 0 15px rgba(0, 0, 0, 0.1);
+}
+
+.modal__item:hover {
+    background-color: #ffe4b5;
+    transform: scale(1.05);
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.2);
+}
+
+.modal__thumb img {
+    width: 70px;
+    height: 70px;
+    border-radius: 50%;
+    margin-right: 20px;
+    border: 3px solid #ffbd59;
+    box-shadow: 0 0 15px rgba(0, 0, 0, 0.2);
+}
+
+.modal__text-product p {
+    margin: 0;
+    font-size: 1.2rem;
+    color: #333;
+}
+
+.modal__text-product p strong {
+    color: #f05223;
+    font-size: 1.4rem;
+}
+
+.modal__footer {
+    margin-top: 30px;
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+}
+
+.modal__list-price h4 {
+    font-size: 2rem;
+    color: #28a745;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.3);
+    margin: 0;
+}
+
+@media (max-width: 768px) {
+    .modal__container {
+        width: 90%;
+        padding: 20px;
+    }
+
+    .modal__header h2 {
+        font-size: 2rem;
+    }
+
+    .modal__text-product p {
+        font-size: 1rem;
+    }
+
+    .modal__footer h4 {
+        font-size: 1.5rem;
+    }
+}
+
+.escritorio{
+    display: none;
+}
+
+@media (min-width: 768px){
+
+    header, .inicio, .acercade, .icons-container, .productos, .contacto, .footer{
+        display: none;
+    }
+
+    .escritorio{
+        position: absolute;
+        inset: 0;
+        padding: 0;
+        width: 100vw;
+        height: 100vh;
+        overflow: auto;
+        display: block;
+        border: 1px solid #333;
+        background-color: #000000;
+    }
+    .escritorio p{
+        color: #ffffff;
+        display: none;
+    }
+
+    .escritorio img{
+        width: 100%;
+        height: 99.8vh;
+    }
+}
+
