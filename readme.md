@@ -8,11 +8,11 @@ DEscansa en ZIP, extrae en su equipo. Ya abierto en VS Code click izquierzo y li
 
 ### 📋 Caracteristicas
 
--Explora la amplia selección de cervezas de diferentes marcas y estilos.
--Cada cerveza incluye una descripción completa con información sobre sabor, origen y contenido de alcohol.
--Utiliza tecnología de encriptación avanzada para proteger tus datos y garantizar una transacción segura.
--La página está diseñada para que se encuentre lo que busca de manera rápida y sencilla.
--Ofrece una política de devoluciones clara y justa para su tranquilidad. 🛠️
+- Explora la amplia selección de cervezas de diferentes marcas y estilos.
+- Cada cerveza incluye una descripción completa con información sobre sabor, origen y contenido de alcohol.
+- Utiliza tecnología de encriptación avanzada para proteger tus datos y garantizar una transacción segura.
+- La página está diseñada para que se encuentre lo que busca de manera rápida y sencilla.
+- Ofrece una política de devoluciones clara y justa para su tranquilidad. 🛠️
 
 ## 🚀 Tecnologias utilizadas
 
@@ -21,19 +21,19 @@ DEscansa en ZIP, extrae en su equipo. Ya abierto en VS Code click izquierzo y li
 ## 🤝 Funcionalidad
 
 1. Maquetación Inicial en Canva
--Se planteó todas las ideas y funcionalidades clave de la plataforma, incluyendo el inicio de sesión, la página principal, la descripción detallada de cada producto, el carrito de compras y otros elementos esenciales.
--Cada aspecto del proyecto fue cuidadosamente diseñado y organizado en la maquetación para asegurar una experiencia de usuario óptima.
+- Se planteó todas las ideas y funcionalidades clave de la plataforma, incluyendo el inicio de sesión, la página principal, la descripción detallada de cada producto, el carrito de compras y otros elementos esenciales.
+- Cada aspecto del proyecto fue cuidadosamente diseñado y organizado en la maquetación para asegurar una experiencia de usuario óptima.
 
 2. Desarrollo del software
--Se siguió cada detalle de la maquetación durante el proceso de desarrollo, asegurando que todas las funcionalidades planificadas se integraran de manera efectiva.
+- Se siguió cada detalle de la maquetación durante el proceso de desarrollo, asegurando que todas las funcionalidades planificadas se integraran de manera efectiva.
 
 3. Avances del Proyecto
--Se ha logrado implementar la mayoría de los elementos planteados en la maquetación inicial realizada en Canva.
--Aún faltan algunos detalles y mejoras por realizar para alcanzar la versión final deseada.
+- Se ha logrado implementar la mayoría de los elementos planteados en la maquetación inicial realizada en Canva.
+- Aún faltan algunos detalles y mejoras por realizar para alcanzar la versión final deseada.
 
 4. Pasos a seguir
--Se presento los avances del desarrollo de manera lineal, destacando las mejoras y nuevas funcionalidades implementadas.
--Se aplicamos retroalimentación durante todo el proceso para optimizar y perfeccionar la plataforma.
+- Se presento los avances del desarrollo de manera lineal, destacando las mejoras y nuevas funcionalidades implementadas.
+- Se aplicamos retroalimentación durante todo el proceso para optimizar y perfeccionar la plataforma.
 
 
 ## 📝 Evidencias Visuales
