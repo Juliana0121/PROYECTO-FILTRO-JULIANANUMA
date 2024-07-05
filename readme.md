@@ -24,11 +24,17 @@ DEscansa en ZIP, extrae en su equipo. Ya abierto en VS Code click izquierzo y li
 -Se planteó todas las ideas y funcionalidades clave de la plataforma, incluyendo el inicio de sesión, la página principal, la descripción detallada de cada producto, el carrito de compras y otros elementos esenciales.
 -Cada aspecto del proyecto fue cuidadosamente diseñado y organizado en la maquetación para asegurar una experiencia de usuario óptima.
 
-	@@ -25,5 +34,11 @@ Las tecnologías que se utilizaron para este proyecto fueron HTML y CSS.
+2. Desarrollo del software
+-Se siguió cada detalle de la maquetación durante el proceso de desarrollo, asegurando que todas las funcionalidades planificadas se integraran de manera efectiva.
+
+3. Avances del Proyecto
+-Se ha logrado implementar la mayoría de los elementos planteados en la maquetación inicial realizada en Canva.
+-Aún faltan algunos detalles y mejoras por realizar para alcanzar la versión final deseada.
+
 4. Pasos a seguir
 -Se presento los avances del desarrollo de manera lineal, destacando las mejoras y nuevas funcionalidades implementadas.
 -Se aplicamos retroalimentación durante todo el proceso para optimizar y perfeccionar la plataforma.
- 👥
+
 
 ## 📝 Evidencias Visuales
 
