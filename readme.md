@@ -4,7 +4,7 @@ Mi proyecto de e-commerce se especializa en la distribución y venta de cerveza 
 
 ## 🏁 Comenzando
 
-DEscansa en ZIP, extrae en su equipo. Ya abierto en VS Code click izquierzo y live server. 🎉
+Descarga en ZIP, extrae en su equipo. Ya abierto en VS Code click izquierzo y live server. 🎉
 
 ### 📋 Caracteristicas
 
